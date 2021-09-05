@@ -13,6 +13,6 @@ I Z E A H .
 # Presentation
 [Golang-Concurrency-Example-Presentation](https://www.canva.com/design/DAEj_kx5QMk/vutiG-qydvHTLVPPA9Z43g/view)
 
-# Presentation
+# References
 - https://golangdocs.com/
 - https://dasarpemrogramangolang.novalagung.com/
